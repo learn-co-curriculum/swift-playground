@@ -79,4 +79,4 @@ Reassign the instances so that `summary` will print:
 4. Finally, use the constants that you just created to print the same string that reads `Total students: 136`.
 
 
-View <a href='https://learn.co/lessons/swift-playground' data-visibility='hidden'>Swift Playground</a> on Learn.co and start learning to code for free.
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/swift-playground' title='Swift Playground'>Swift Playground</a> on Learn.co and start learning to code for free.</p>
